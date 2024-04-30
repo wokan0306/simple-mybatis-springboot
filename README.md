@@ -28,7 +28,7 @@ To get started with these projects, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mybatis-spring-boot-examples.git
+   git clone https://github.com/wokan0306/simple-mybatis-springboot
    ```
 
 2. Open the desired project in your preferred IDE.
