@@ -47,7 +47,7 @@ To run these projects, you need to have the following software installed on your
 
 ## Resources
 
-- 黑马程序员 (Bilibili): [JavaWeb开发教程](https://www.bilibili.com/video/BV1Y7411y7wa)
+- 黑马程序员 (Bilibili): [JavaWeb开发教程](https://www.bilibili.com/video/BV1m84y1w7Tb?p=1)
 
 ## License
 
